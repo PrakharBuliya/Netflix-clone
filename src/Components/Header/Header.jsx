@@ -4,7 +4,6 @@ import logo from "../../logo.png"
 import { ImSearch } from "react-icons/im"
 
 const Header = () => {
-    console.log(logo)
   return (
     <nav className='header'>
 
